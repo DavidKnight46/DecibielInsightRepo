@@ -1,0 +1,6 @@
+# files and folders to ignore
+/.git/
+/.settings/
+/target/
+/.project
+/.classpath
